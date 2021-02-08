@@ -1,0 +1,14 @@
+/* . * selettore{
+   proprietà: valore;
+   proprietà: valore;
+} */
+
+ .bello{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border: 30px solid black;
+ }
+ *{
+   box-sizing: border-box;
+ }
