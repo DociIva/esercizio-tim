@@ -1,14 +1,29 @@
-/* . * selettore{
-   proprietà: valore;
-   proprietà: valore;
-} */
+/* selettore 
+proprieta: valore;
+*/
 
- .bello{
-  width: 200px;
-  height: 200px;
-  background-color: red;
-  border: 30px solid black;
- }
- *{
-   box-sizing: border-box;
- }
+
+.titolo{
+    width: 60%;
+    margin-left: 100px;
+
+}
+.immagini-tim{
+    margin-left: 100px;  
+   
+}
+.primo-prg{
+    margin-left: 100px;
+}
+
+.elenco{
+    margin-left: 80px;
+}
+ 
+.tabella {
+    margin-left: 100px;
+    text-align: left;
+}
+.intestazione-tb { 
+    background-color: rgb(127, 127, 236);
+    }
